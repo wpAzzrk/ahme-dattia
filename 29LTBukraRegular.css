@@ -1,0 +1,11 @@
+@font-face {
+    font-family: '29LTBukraRegular';
+    src: url('https://github.com/wpAzzrk/ahme-dattia/raw/refs/heads/main/29ltbukraregular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Example usage */
+body {
+    font-family: '29LTBukraRegular', sans-serif;
+}
